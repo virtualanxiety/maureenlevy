@@ -10877,7 +10877,7 @@ p {
 }
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 100;
 }
 
@@ -11140,9 +11140,4 @@ a[href^="tel:"]:hover {
 
   color: #DFD3C3;
 
-}
-
-/* Articles archive */
-.article-entry .section-heading-lower {
-  font-size: 2rem;
 }
